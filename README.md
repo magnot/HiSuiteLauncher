@@ -5,7 +5,7 @@ A Launcher for HiSuite which grabs its ssl calls and hooks them
 
 It will launch an instance of HiSuite, Huawei Smartphone PC Manager, if installed. This instance will have a hook to ssl calls made by HiSuite to HiCloud. So we can now handle responses by editing a simple text file for a full ota update. It won't touch anything else. With an update response, HiSuite should now handle the update process including the rollback option if available and a proper imei authorization to HiCloud. This is a way to force an update to your Huawei/Honor smartphone with a standard tool.
 
-Setup and Launch
+2. Setup and Launch
 
 You will need FirmwareFinder (TeamMT). If you've been around Huawei/Honor forums you should already know what it is. With FF we can track ota updates and even run an authorization test for an update. This is important because we're gonna be using the ota ID and its full link to pass to HiSuite. If you spot an update and your device is not yet authorized to install it your phone will most likely avoid it either.
 
@@ -17,7 +17,7 @@ ALWAYS take note of the rollback ID suggested by HiCloud. It might look like it'
 
 Just extract the zip folder to any suitable folder in your computer and run the Launcher.exe. A console window will popup and HiSuite will appear right after. You can monitor HiSuite calls in the console window.
 
-Instructions:
+3. Instructions:
 
 Remove root and TWRP. You have to be full stock.
 
@@ -38,7 +38,7 @@ Hit Update in HiSuite and you should see the red dot indicating an ota update (i
 
 - Launcher.exe.config: here you can find a few setup options like hisuite folder.
 
-Bugs
+4. Bugs
 
 - Well, as far as I'm concerned you shouldn't face any bugs since it's pretty straight forward. BUT, please take my advice: if you're not sure about which update to go for avoid it altogether.
 
@@ -48,7 +48,7 @@ Bugs
 
 - I cannot confirm this but since I always update my phone through this method I don't get incremental updates anymore. I don't know if it's because I'm always way ahead (updates usually take forever to reach my phone before and that's why I've been doing all of this) or anything else.
 
-Notes:
+5. Notes:
 
 - I have to thank Smaehtin (XDA) for kindly answering my request to support this tool for Honor 10 and for actually providing this method.
 - Although I'm a professional developer (ERP stuff), I'm not used to C# so the code might look a bit messy and funky here and there. I'm sorry for that.
