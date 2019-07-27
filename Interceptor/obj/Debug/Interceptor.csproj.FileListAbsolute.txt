@@ -1,0 +1,16 @@
+\Interceptor\obj\Debug\Interceptor.csprojResolveAssemblyReference.cache
+\Interceptor\bin\Debug\Interceptor.exe
+\Interceptor\bin\Debug\Interceptor.pdb
+\Interceptor\bin\Debug\EasyHook.dll
+\Interceptor\obj\Debug\Interceptor.exe
+\Interceptor\obj\Debug\Interceptor.pdb
+\SharpDevelop Projects\HonorUpdater\Interceptor\bin\Debug\Interceptor.pdb
+\SharpDevelop Projects\HonorUpdater\Interceptor\obj\Debug\Interceptor.pdb
+\SharpDevelop Projects\HonorUpdater\Interceptor\bin\Debug\EasyHook.dll
+\SharpDevelop Projects\HonorUpdater\Interceptor\bin\Debug\Interceptor.dll
+\SharpDevelop Projects\HonorUpdater\Interceptor\obj\Debug\Interceptor.dll
+\HonorUpdater\Launcher\bin\Interceptor.dll
+\HonorUpdater\Launcher\bin\Interceptor.pdb
+\HonorUpdater\Launcher\bin\Debug\Interceptor.dll
+\HonorUpdater\Launcher\bin\Debug\Interceptor.pdb
+\HonorUpdater\Interceptor\obj\Debug\Interceptor.csprojResolveAssemblyReference.cache

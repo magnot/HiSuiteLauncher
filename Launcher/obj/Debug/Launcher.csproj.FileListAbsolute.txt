@@ -1,0 +1,7 @@
+\SharpDevelop Projects\HonorUpdater\Launcher\obj\Debug\Launcher.csprojResolveAssemblyReference.cache
+\SharpDevelop Projects\HonorUpdater\Launcher\bin\Debug\Launcher.exe.config
+\SharpDevelop Projects\HonorUpdater\Launcher\bin\Debug\Launcher.exe
+\SharpDevelop Projects\HonorUpdater\Launcher\bin\Debug\Launcher.pdb
+\SharpDevelop Projects\HonorUpdater\Launcher\bin\Debug\EasyHook.dll
+\SharpDevelop Projects\HonorUpdater\Launcher\obj\Debug\Launcher.exe
+\SharpDevelop Projects\HonorUpdater\Launcher\obj\Debug\Launcher.pdb

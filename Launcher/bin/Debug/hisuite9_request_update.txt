@@ -1,0 +1,26 @@
+{ "status":"0",
+  "versionPackageCheckResults":[
+  { "status":"0",
+    "autoPollingCycle":"1",
+    "components":[
+    { "componentID":1,
+      "createTime":"2019-07-11T03:41:07+0000",
+      "description":"325 - Full Update",
+      "name":"COL-LGPR2-OVS 9.1.0.325",
+      "pointVersion":"1",
+      "reserveUrl":"updatessl.dbankcdn.com",
+      "ruleAttr":"",
+      "url":"http://updatessl.dbankcdn.com/TDS/data/files/p3/s15/G5029/g0/v280740/f1/",
+      "version":"COL-LGPR2-OVS 9.1.0.325",
+      "versionID":"280740"
+    }],
+    "versionPackageType":2,
+    "checkEnd":"1"
+  },
+    { "status":"1",
+      "versionPackageType":3
+    },
+    { "status":"1",
+      "versionPackageType":4
+    }]
+}
